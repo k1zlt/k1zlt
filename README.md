@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey 👋</h1>
+<h1 align="center">hey there 👋, I am Firuz</h1>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools that I use</h3>
 
 ###
 
